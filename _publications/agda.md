@@ -9,4 +9,6 @@ venue: 'NeurIPS 2025'
 paperurl: 'https://arxiv.org/abs/2510.22135'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Authors: Yijin Ren, Haifeng Xu, Qideng
+
+Introduction: This paper introduces new parameter-free first-order methods for convex optimization problems in which the objective function exhibits Hölder smoothness. Inspired by the recently proposed distance-over-gradient (DOG) technique, we propose an accelerated distance-adaptive method which achieves optimal anytime convergence rates for Hölder smooth problems without requiring prior knowledge of smoothness parameters or explicit parameter tuning. Importantly, our parameter-free approach removes the necessity of specifying target accuracy in advance, addressing a significant limitation found in the universal fast gradient methods(Nesterov,2015). We further present a parameter-free accelerated method that eliminates the need for line-search procedures and extend it to convex stochastic optimization. Preliminary experimental results highlight the effectiveness of our approach in convex nonsmooth problems and its advantages over existing parameter-free or accelerated methods.
