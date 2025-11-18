@@ -6,7 +6,7 @@ permalink: /publication/agda
 excerpt: 'This paper proposes an adaptive, parameter-free accelerated method for local Hölder smooth convex optimization with optimal rates and no need for Lipschitz or target accuracy tuning.'
 date: 2025-5-16
 venue: 'NeurIPS 2025'
-paperurl: 'https://arxiv.org/abs/2510.22135'
+paperurl: 'https://neurips.cc/virtual/2025/loc/san-diego/poster/116926'
 ---
 
 Authors: Yijin Ren, Haifeng Xu, Qideng
